@@ -1,0 +1,60 @@
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.exe
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.dll
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.pdb
+C:\Users\bibek\Desktop\IES\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.exe
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.csproj.AssemblyReference.cache
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.dll
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.pdb
+C:\Users\tsamr\Downloads\new\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.exe
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.dll
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.pdb
+C:\Users\user\Desktop\information encoding assignment\FINAL PROJECT\Authentication\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
